@@ -46,6 +46,7 @@ A simple Android snack ordering app (sample project) that demonstrates user regi
 ## Video Link about Project
 
 - https://drive.google.com/file/d/1fX5Ru1-ybDv42lNH43bg-_Lu6qkjwwgx/view?usp=drivesdk
+
 ## Notes
 - Resources like drawables and themes are in `app/src/main/res/`.
 - If you change the database schema, increment the version in the database helper classes.
