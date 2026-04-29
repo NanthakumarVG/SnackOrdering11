@@ -43,6 +43,9 @@ A simple Android snack ordering app (sample project) that demonstrates user regi
 - Run unit tests: `./gradlew test`
 - Run instrumentation tests: `./gradlew connectedAndroidTest`
 
+## Video Link about Project
+
+- https://drive.google.com/file/d/1fX5Ru1-ybDv42lNH43bg-_Lu6qkjwwgx/view?usp=drivesdk
 ## Notes
 - Resources like drawables and themes are in `app/src/main/res/`.
 - If you change the database schema, increment the version in the database helper classes.
@@ -53,4 +56,3 @@ If you find issues or want to improve the app, open an issue or submit a pull re
 ## License
 This project is provided as-is. Add a license file if you intend to use or distribute it publicly.
 
-https://drive.google.com/file/d/1fX5Ru1-ybDv42lNH43bg-_Lu6qkjwwgx/view?usp=drivesdk
